@@ -1,0 +1,16 @@
+KBaseReport	github.com/kbaseapps/KBaseReport
+SetAPI		github.com/kbaseapps/SetAPI
+kb_uploadmethods	github.com/kbaseapps/kb_uploadmethods
+DataFileUtil	github.com/kbaseapps/DataFileUtil
+ReadsUtils	github.com/kbaseapps/ReadsUtils
+AssemblyUtil	github.com/kbaseapps/AssemblyUtil
+MetagenomeAPI	github.com/kbaseapps/MetagenomeAPI
+MetagenomeUtils	github.com/kbaseapps/MetagenomeUtils
+GenomeFileUtil	github.com/kbaseapps/GenomeFileUtil
+FeatureSetUtils	github.com/kbaseapps/FeatureSetUtils
+ExpressionUtils	github.com/kbaseapps/ExpressionUtils
+DifferentialExpressionUtils	github.com/kbaseapps/DifferentialExpressionUtils
+FBAFileUtil	github.com/kbaseapps/FBAFileUtil
+GenericsAPI	github.com/kbaseapps/GenericsAPI
+KBParallel	github.com/kbaseapps/KBParallel
+ReferenceDataManager	github.com/kbaseapps/ReferenceDataManager
